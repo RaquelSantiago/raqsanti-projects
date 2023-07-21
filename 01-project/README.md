@@ -174,7 +174,7 @@ I like to follow the same coding guidelines:
 - etc
 
 
-## Contributing (if there's more than 1 person using this repo)
+## Contributing (if there's more than 1 person using this repo or to prevent committing leakages)
 To update the project code, clone or pull the latest version of the repo and create a new branch. 
 After finishing the changes, commit the code with appropriate description of the changes, open a pull request and assign at least 1 reviewer.
 
