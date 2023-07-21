@@ -1,1 +1,2 @@
-Jupyter notebooks
+Jupyter notebooks for exploration purposes
+TBC
