@@ -1,0 +1,30 @@
+name: Nuctl Deploy Checker
+description: 'GitHub Action to attempt a model deployment using nuctl'
+author: 'William Justin'
+
+branding:
+  icon: 'box'  
+  color: 'blue'
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/checkout@v2
+
+    - name: nuctl installation
+      run: |
+        echo 'curl -s https://api.github.com/repos/nuclio/nuclio/releases/latest | grep -i "browser_download_url.*nuctl.*$(uname)" | cut -d : -f 2,3 | tr -d \" | wget -O nuctl -qi - && chmod +x nuctl' > nuctl-install.sh
+        sh nuctl-install.sh
+      shell: bash
+
+    - name: nuctl create project
+      run: ./nuctl create project cvat
+      shell: bash
+
+    - name: nuctl deploy
+      run: ./nuctl deploy --project-name cvat --path . --platform local
+      shell: bash
+
+    - name: nuctl get function
+      run: ./nuctl get function
+      shell: bash
