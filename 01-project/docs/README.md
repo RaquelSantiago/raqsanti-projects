@@ -1,2 +1,2 @@
-User gruide, run guide, project info, aux files
+User guide, run guide, project info, aux files
 TBC
