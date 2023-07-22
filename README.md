@@ -1,9 +1,6 @@
-# raqsanti-projects
-Some personal work: projects, functions, theory, study new subjects, etc
-
 ## Welcome 🤓
-![](https://github.com/raqsanti-projects/01-project/images/welcome.gif)
+![Alt Text](https://media.tenor.com/QZArlhfw_m8AAAAC/welcome-to-my-life-life.gif)
 
-
+Some personal work: projects, functions, theory, study new subjects, etc
 
 
