@@ -1,7 +1,18 @@
-## Welcome! Bem-vindo! Bienvenido! Fáilte! Willkommen
-![Alt Text](https://media.tenor.com/QZArlhfw_m8AAAAC/welcome-to-my-life-life.gif)
+# nuctl-deploy-checker-action
 
-Happy to share some of my personal work: 
-<br> projects, functions, theory, study new subjects, etc 🤓
+This action will attempt a model deployment using [`nuctl`](https://nuclio.io/docs/latest/tasks/deploying-functions/). This action will read `function.yaml` and `main.py` from root folder.
 
+## Usage
 
+```yml
+- name: Nuctl Deploy Checker
+  uses: Xu-Justin/nuctl-deploy-checker-action@v1
+```
+
+## Upcoming Features
+
+- Custom `function.yaml` and `main.py` file name and path.
+
+---
+
+This project was developed as part of Nodeflux Internship x Kampus Merdeka.
