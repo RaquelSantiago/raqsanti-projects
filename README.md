@@ -1,4 +1,4 @@
 # raqsanti-projects
 Some personal work
 
-![]([https://github.com/RaquelSantiago/raqsanti-projects/assets/83476420/8eda0f81-ace0-4894-b40c-9cbd5580d4b2)
+![]([![image](https://github.com/RaquelSantiago/raqsanti-projects/assets/83476420/d68f797d-f26a-48ab-a5ec-f2d58443dc9e)
