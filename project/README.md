@@ -3,7 +3,7 @@
 Welcome to your git repository! \
 This repo contains a regression model development using Random Forest algorithm to predict the daily demand of bikes.
 
-<img src="sixt-bikes.png" width="100">
+<img src="sixt-bikes.png" width="180">
 
 ## Project Files Description
 This Project includes 1 executable file as well as directories as follows:
