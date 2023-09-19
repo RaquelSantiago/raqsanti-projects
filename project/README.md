@@ -3,14 +3,14 @@
 Welcome to your git repository! \
 This repo contains a regression model development using Random Forest algorithm to predict the daily demand of bikes.
 
-![sixt-bikes!](sixt-bikes.png)
-
+<img src="sixt-bikes.png" width="200">
 
 ## Project Files Description
 This Project includes 1 executable file as well as directories as follows:
 
 **Executable Files:** \
 Datalab_Task_20220622.ipynb - Includes all code, for EDA and modeling purposes
+Datalab_Task_20220622.html - Includes all code, for EDA and modeling purposes - HTML format
 
 **Output Files:** \
 output/analyze_dataset_comparison.html - Dataset EDA, where I compare all dataset with the last 30 days to understand the pattern/market/customer choices \
