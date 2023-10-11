@@ -13,10 +13,10 @@ rs-cloud-analytics-modeling.ipynb - Includes all code, for EDA and modeling purp
 rs-cloud-analytics-modeling.html - Includes all code, for EDA and modeling purposes - HTML format
 
 **Output Files:** \
-output/analyze_dataset.html - Dataset EDA with the objective of having a overall understading of the data \
+output/analyze_dataset.html - Dataset EDA with the objective of having a overall understading of the data
 
 **Source Directories:** \
-data/cost_data.csv - includes all dataset for training and testing phases of the model in csv format
+*data/cost_data.csv - includes all dataset for training and testing phases of the model in csv format* (needs to be added by who's cloning the repo)
 data/cloud-computing.jpeg - image to use in README file
 
 
