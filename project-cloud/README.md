@@ -1,7 +1,7 @@
 # Cloud Computing Cost
 
 Welcome to the git repository! \
-This repo contains a forecasting model development applying Anomaly detection using Prophet algorithm to forecast of spend broken down by Product for the next six months.
+This repo contains a forecasting model development applying Anomaly detection using Prophet algorithm to forecast of spend broken down by Product&Environment for the next six months.
 
 <img src="data/cloud-computing.jpeg" width="600">
 
